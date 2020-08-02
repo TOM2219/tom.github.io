@@ -1,12 +1,32 @@
-* {
-  box-sizing: border-box;
+.header-logo {
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding: 10px;
 }
-
+.top-wrapper h1 {
+  font-size: 80px;
+  font-weight:300px;
+  color: white;
+  margin-left: 20px;
+}
+.top-wrapper h2{
+  color: white;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+}
 body {
-  font-family: "Hiragino Kaku Gothic ProN";
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxKDDq6Ji4noJLEQXk8waG-LGyKao5RruIPQ&usqp=CAU);
+  height: 700px;
+  background-size: cover;
+  border: 10px solid black;
+  margin: 0 auto;
 }
-
-.container img {
-  width: 100%;
-  height: 100%;
-{
+.experience-icon img {
+  width: 25%;
+  border-radius: 100px;
+  border: 10px solid red;
+  margin: 0 10px;
+}
