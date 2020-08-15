@@ -30,3 +30,14 @@ body {
   border: 10px solid red;
   margin: 0 10px;
 }
+.experiences a {
+  color: white;
+  font-size: 15px;
+  border-bottom: 3px solid white;
+  margin-top: 10px;
+  margin-left: 70px;
+}
+.experiences {
+  float: left;
+  display: inline-block;
+}
