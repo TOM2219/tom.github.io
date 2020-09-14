@@ -17,9 +17,8 @@
   font-style: italic;
   font-weight: bold;
 }
-body {
-  background-image:url(https://raw.githubusercontent.com/TOM2219/tom.github.io/master/IMG_20190824_160812.jpg);
-  height: 700px;
+body img{
+  height: 800px;
   background-size: cover;
   border: 10px solid black;
   margin: 0 auto;
