@@ -6,16 +6,26 @@
   padding: 10px;
 }
 .top-wrapper h1 {
-  font-size: 80px;
+  font-size: 65px;
   font-weight:300px;
   color: gold;
   text-align: center;
+  margin-top: 180px;
+  opacity: 0.7;
+}
+.top-wrapper p {
+  font-size: 30px;
+  font-weight:200px;
+  color: gold;
+  text-align: center;
+  opacity: 0.7;
 }
 .top-wrapper h2{
   color: white;
   font-size: 30px;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
 }
 body {
   background-image: url(https://raw.githubusercontent.com/TOM2219/tom.github.io/master/IMG_20190824_160812.jpg);
@@ -24,20 +34,34 @@ body {
   border: 10px solid black;
   margin: 0 auto;
 }
-.experience-icon img {
-  width: 25%;
+.redcross a img {
+  width: 100px;
   border-radius: 300px;
-  border: 10px solid red;
-  margin: 0 10px;
+  border: 5px solid red;
 }
-.experiences a {
+.btn {
   color: white;
+  opacity: 0.8;
   font-size: 15px;
-  border-bottom: 3px solid white;
   margin-top: 10px;
-  margin-left: 70px;
+  text-align: center;
 }
-.experiences {
-  float: left;
+.btn:hover {
+  opacity: 1;
+}
+.experience {
+  float: right;
+  width: 100%;
+  text-align:right;
+}
+.ibaraki a img {
+  width: 100px;
+  height: 70px;
+  border-radius: 300px;
+  border: 5px solid red;
+}
+.experience-icon {
   display: inline-block;
+  margin-right: 20px;
 }
+
