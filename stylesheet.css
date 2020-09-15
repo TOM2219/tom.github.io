@@ -64,4 +64,20 @@ body {
   display: inline-block;
   margin-right: 20px;
 }
+.nakatu a img {
+  height: 70px;
+  width: 100px;
+  border-radius: 300px;
+  border: 5px solid red;
+}
+.btn-wrapper {
+  float: right;
+  margin-top: 30px;
+}
+.fb a img{
+  height: 50px;
+  width: 50px;
+  border-radius: 300px;
+  border: 2px solid white;
+}
 
