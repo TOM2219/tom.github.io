@@ -1,14 +1,14 @@
 header {
   height: 50px;
   width: 100%;
-  background-color: white;
+  background-color:rgba(34, 49, 52, 0.9);
   position: fixed;
   top: 0;
   z-index: 10;
 }
 .header-logo {
   height: 40px;
-  color: black;
+  color: white;
   font-size: 30px;
   display: inline-block;
   float: left;
